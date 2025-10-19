@@ -10,7 +10,7 @@ white_bkgd = True
 lrate_decay = 500
 
 N_samples = 48
-N_importance = 64
+N_importance = 96
 N_rand = 1024
 
 precrop_iters = 500
