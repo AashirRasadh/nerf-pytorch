@@ -19,7 +19,7 @@ Below are our observed results for different configurations.
 **PSNR:** 23.1  
 
 **Result Video:**  
-[▶️ Watch Output (Iteration 5K)](file:///D:/Cursor%20Document/nerf-pytorch/results/it10k/WhatsApp%20Video%202025-10-20%20at%2001.23.09.mp4)
+<video src="results/it10k/output2.mp4" controls width="600"></video>
 
 ---
 
